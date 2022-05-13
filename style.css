@@ -8,7 +8,7 @@ header {
   display: flex;
   justify-content: space-between;
   margin: 26px 25px 0 25px;
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 
 #menue-button {
@@ -17,7 +17,7 @@ header {
 }
 
 #logo {
-  color: #6070ff;
+  color: #6070FF;
   font-weight: 700;
   font-size: 18px;
 }
