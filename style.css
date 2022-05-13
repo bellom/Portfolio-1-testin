@@ -8,6 +8,7 @@ header {
   display: flex;
   justify-content: space-between;
   margin: 26px 25px 0 25px;
+  background-color: #ffffff;
 }
 
 #menue-button {
@@ -16,7 +17,7 @@ header {
 }
 
 #logo {
-  color: #2230d2;
+  color: #6070ff;
   font-weight: 700;
   font-size: 18px;
 }
@@ -211,6 +212,7 @@ button:hover {
 
 button:active {
   background-color: #2230d2;
+  color: #ffffff;
 }
 
 .project button {
@@ -226,7 +228,7 @@ button:active {
 
 .project button:active {
   background: #2230d2;
-  color: #fff;
+  color: #ffffff;
 }
 
 #right-side button {
